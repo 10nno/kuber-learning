@@ -2,7 +2,7 @@ apiVersion: v1
 kind: service 
 metadata:
  name: result-service
- label:
+ labels:
   name: result-service
   app: demo-result-app
 
